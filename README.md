@@ -36,6 +36,10 @@
 
 - Tool and technologies applied
   + Data cleaning: Handle missing values, correct data types, and remove duplicates.
+    df.isnull().sum()
+    df.isnull().sum()
+
+
 - Key insights discovered
 - Hypothesis based on the insights
 - Recommendations based on analysis results
