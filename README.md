@@ -36,8 +36,11 @@
 
 - Tool and technologies applied
   + Data cleaning: Handle missing values, correct data types, and remove duplicates.
+    To check the value Null
+    ```
     df.isnull().sum()
-    df.isnull().sum()
+    ```
+  + EDA: Generate
 
 
 - Key insights discovered
